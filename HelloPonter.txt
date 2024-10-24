@@ -1,0 +1,8 @@
+public class HelloPrinter
+{retnirPolleH ssalc cilbup
+public static void main(String[] args)public class HelloPrinter{
+{{retnirPolleH ssalc cilbup)sgra ][gnirtS(niam diov citats cilbup
+// Display a greeting in the console windowpublic static void main(String[] args)public class HelloPrinter{{
+System.out.println("Hello, World!");{{retnirPolleH ssalc cilbup)sgra ][gnirtS(niam diov citats cilbupwodniw elosnoc eht ni gniteerg a yalpsiD //
+}// Display a greeting in the console windowpublic static void main(String[] args)public class HelloPrinter{{;)"!dlroW ,olleH"(nltnirp.tuo.metsyS
+}System.out.println("Hello, World!");{{retnirPolleH ssalc cilbup)sgra ][gnirtS(niam diov citats cilbupwodniw elosnoc eht ni gniteerg a yalpsiD //}

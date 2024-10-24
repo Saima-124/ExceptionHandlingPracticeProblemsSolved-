@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e15292f9-4dd5-4fd0-9edf-7e1e3c70a348" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandlingPracticeExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloPonter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloSima.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anotherInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnotherTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicOfFileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlankRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlankTrimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterWordsLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CleanFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpectedOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FristProblem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GiveTwoFileName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RevFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLineSerial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RowSum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2npD0hjalJ7w2YkOu4YplIC2we0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnotherTry.executor": "Run",
+    "Application.BasicOfFileHandling.executor": "Run",
+    "Application.BlankRemover.executor": "Run",
+    "Application.BlankTrimmer.executor": "Run",
+    "Application.CharacterWordsLine.executor": "Run",
+    "Application.CleanFile.executor": "Run",
+    "Application.CollumSum.executor": "Run",
+    "Application.ExpectedOutput.executor": "Run",
+    "Application.FileStatistics.executor": "Run",
+    "Application.GiveTwoFileName.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.REmoveBlankSpaces.executor": "Run",
+    "Application.RemoveBlankLines.executor": "Run",
+    "Application.RemoveBlankLinesAtEdges.executor": "Run",
+    "Application.RevFile.executor": "Run",
+    "Application.ReverseLineSerial.executor": "Run",
+    "Application.RowSum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/ExceptionHandlingPracticeExercise/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.RowSum">
+    <configuration name="AnotherTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnotherTry" />
+      <module name="ExceptionHandlingPracticeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollumSum" />
+      <module name="ExceptionHandlingPracticeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpectedOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpectedOutput" />
+      <module name="ExceptionHandlingPracticeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiveTwoFileName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GiveTwoFileName" />
+      <module name="ExceptionHandlingPracticeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RowSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RowSum" />
+      <module name="ExceptionHandlingPracticeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RowSum" />
+        <item itemvalue="Application.AnotherTry" />
+        <item itemvalue="Application.GiveTwoFileName" />
+        <item itemvalue="Application.ExpectedOutput" />
+        <item itemvalue="Application.CollumSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e15292f9-4dd5-4fd0-9edf-7e1e3c70a348" name="Changes" comment="" />
+      <created>1729660903551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729660903551</updated>
+    </task>
+    <servers />
+  </component>
+</project>
